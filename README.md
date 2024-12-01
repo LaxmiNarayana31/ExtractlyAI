@@ -25,11 +25,17 @@ An AI-powered web scraper and content parser that extracts, cleans, and analyzes
 - **Google Gemini API**: Provides AI-powered parsing capabilities for analyzing and extracting specific information.
 - **LangChain**: Integrated for large language model (LLM) operations and advanced AI functionalities.
 
-## Installation
+## Project Setup
 
-To set up WebScribe-AI on your local machine:
-
-1. Clone the repository: `git clone https://github.com/LaxmiNarayana31/WebScribe-AI.git`
-2. Create a virtual environment: `pipenv shell`
-3. Install dependencies: `pipenv install`
-4. Run the Streamlit app: `streamlit run main.py` or `pipenv run main`
+- Clone the repository:
+  ```bash
+  git clone https://github.com/LaxmiNarayana31/WebScribe-AI.git
+  ```
+- Create a virtual environment using pipenv. If you don't have pipenv installed, you can install it by running `pip install pipenv` in your terminal.
+  ```bash
+  pipenv shell # Create a virtual environment
+  pipenv install # Install dependencies
+  ```
+- Run the application:
+  ```bash
+  pipenv run main
