@@ -1,6 +1,6 @@
 # ExtractlyAI
 
-An AI-powered web scraper and content parser that extracts, cleans, and analyzes web content efficiently. WebScribe simplifies data retrieval from websites, making it customizable, fast, and intuitive.
+An AI-powered web scraper and content parser that extracts, cleans, and analyzes web content efficiently. ExtractlyAI simplifies data retrieval from websites, making it customizable, fast, and intuitive.
 
 ## Features
 
