@@ -1,4 +1,4 @@
-# WebScribe-AI
+# ExtractlyAI
 
 An AI-powered web scraper and content parser that extracts, cleans, and analyzes web content efficiently. WebScribe simplifies data retrieval from websites, making it customizable, fast, and intuitive.
 
@@ -29,7 +29,7 @@ An AI-powered web scraper and content parser that extracts, cleans, and analyzes
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/LaxmiNarayana31/WebScribe-AI.git
+  git clone https://github.com/LaxmiNarayana31/ExtractlyAI.git
   ```
 - Create a virtual environment using pipenv. If you don't have pipenv installed, you can install it by running `pip install pipenv` in your terminal.
   ```bash
